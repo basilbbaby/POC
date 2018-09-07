@@ -4,7 +4,7 @@ import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 //@Entity
-
+//Entity file select
 @Document(collection = "pmodel")
 public class Pmodel {
 
